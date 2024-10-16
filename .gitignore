@@ -1,0 +1,39 @@
+# Logs
+logs/
+*.log
+*.log.*
+
+# Maven/Gradle
+target/
+*.jar
+*.war
+*.ear
+.build/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# IDEs (IntelliJ, Eclipse, VS Code)
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+spring.log
+
+# Environment variable files
+.env
+
+# Angular specific
+.angular/
+.angular-cache/
+
